@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "LANXIN XI"
 date: "2025-06-12"
 categories: [news, code, analysis]
 image: "image.jpg"
@@ -9,5 +9,7 @@ image: "image.jpg"
 This is a post with executable code.
 
 ```{r}
-1 + 1
+a <- 1 + 1
+b <- 2 + 2
+c <- 3 + 3
 ```
